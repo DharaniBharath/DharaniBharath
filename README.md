@@ -69,7 +69,7 @@ Selenium • Java • TestNG • Manual Testing
 
 ## 📫 Contact
 
-- 💼 LinkedIn: *([Add your LinkedIn link](https://www.linkedin.com/in/dharani-bharath-dangudubiyyapu-605930189/))*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/dharani-bharath-dangudubiyyapu-605930189/)*
 - 📧 Email: *(bharath9247.d@gmail.com)*
 
 ---
